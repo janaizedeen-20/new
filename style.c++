@@ -4,8 +4,9 @@ using namespace std;
 
 
 main (){
-
-cout << "hi";
+int n;
+cin >>n;
+cout "true";
 
     return 0;
 }
