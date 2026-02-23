@@ -7,6 +7,6 @@ main (){
 int j;
 cin j;
 cout <<"jana";
-cout <<endl<<j;
+cout <<"update tje github";
     return 0;
 }
